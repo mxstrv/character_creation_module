@@ -101,3 +101,4 @@ def start_training(char: Character):
 if __name__ == '__main__':
     name = input('Кто ты, воин? ')
     start_training(choice_char_class(name))
+
